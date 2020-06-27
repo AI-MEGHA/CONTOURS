@@ -24,3 +24,12 @@ CANNY EDGES
 ALL COUTOURS OVER BLACK IMAGE
 
 ![ALL COUTOURS OVER BLACK IMAGE](https://user-images.githubusercontent.com/42671977/85924802-2143c380-b8b2-11ea-9928-b5834265f481.png)
+
+![ORM](https://user-images.githubusercontent.com/42671977/85925536-a16c2800-b8b6-11ea-919d-1918d41c3a89.png)
+
+
+![BR](https://user-images.githubusercontent.com/42671977/85925535-9fa26480-b8b6-11ea-9cfd-0c8d0e589ed1.png)
+
+
+![APDP](https://user-images.githubusercontent.com/42671977/85925538-a16c2800-b8b6-11ea-8e68-0aa5c1e4afb6.png)
+
