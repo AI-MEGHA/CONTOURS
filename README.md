@@ -37,3 +37,8 @@ ALL COUTOURS OVER BLACK IMAGE
 
 ![CH](https://user-images.githubusercontent.com/42671977/85925638-5e5e8480-b8b7-11ea-86aa-ba1edb34f5ab.png)
 
+![t](https://user-images.githubusercontent.com/42671977/85925734-17bd5a00-b8b8-11ea-8115-29aba5a2401d.png)
+
+
+![r](https://user-images.githubusercontent.com/42671977/85925736-18ee8700-b8b8-11ea-801e-1e59ca2cc21d.png)
+
