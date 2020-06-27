@@ -16,6 +16,8 @@ ORIGNAL IMAGE
 
 ![OM](https://user-images.githubusercontent.com/42671977/85924801-20ab2d00-b8b2-11ea-96ee-9d729f1803d4.png)
 
+CANNY EDGES
+
 
 ![CE](https://user-images.githubusercontent.com/42671977/85924800-1f7a0000-b8b2-11ea-93cd-24c5465fd16c.png)
 
